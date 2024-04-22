@@ -83,6 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   label: Text('Favorites'),
                 ),
               ],
+              //texto
               selectedIndex: selectedIndex,
               onDestinationSelected: (value) {
                 setState(() {
